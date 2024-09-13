@@ -1,11 +1,19 @@
 0.0.1
-//Modpack
-https://www.dropbox.com/scl/fi/rwko4lv9obc66xm8ahpug/Mods-1.rar?rlkey=xszjzpkcjdl88mpvkktva9t6q&st=5xbyo5j0&dl=1
-https://www.dropbox.com/scl/fi/x1mzy1l95jpmawx8xq7s7/Mods-2.rar?rlkey=7gdqtibb4orjwusj0zyfxyypn&st=hb3rjw3y&dl=1
-https://www.dropbox.com/scl/fi/73be0aum14lcfjzfqupkj/Mods-3.rar?rlkey=afyqfgtgbqdwa1i0zgrgmzy6g&st=gu7a5zxx&dl=1
-https://www.dropbox.com/scl/fi/nfkce1rromulrx3r607ve/Mods-4.rar?rlkey=7uvmlyx5ivdq9nccuyzxyh5x8&st=ouer8l55&dl=1
-https://www.dropbox.com/scl/fi/35h34uqwsxrl0hcgwz276/Mods-5.rar?rlkey=fbir104mga3uf8ie7mtee5lkf&st=nvv28cpf&dl=1
-https://www.dropbox.com/scl/fi/gif2yjuy3jh23q8qixlc0/Mods-6.rar?rlkey=j1m7u59b2a5085611fj3unpf2&st=aofl70dy&dl=1
+//Modpack - 1.20.1
+https://www.dropbox.com/scl/fi/el9uyb7o5jx8qc4pxxdb8/Mod-1.zip?rlkey=19w3g4ax2zoz9cy06m49taz9m&st=b464myfl&dl=1
+https://www.dropbox.com/scl/fi/bvyey1c299av2ynrwtm3u/Mod-2.zip?rlkey=1fp9n3ajwfvl8q568q5b8q13j&st=6asv71lk&dl=1
+https://www.dropbox.com/scl/fi/u9may6v7w1zenf1wq73xo/Mod-3.zip?rlkey=4q9jvh4wpoawll0adiwnczndi&st=j0h5rjhp&dl=1
+https://www.dropbox.com/scl/fi/4rrxgref4m6ohydetogzy/Mod-4.zip?rlkey=2wom7dw697pxltjk8l3rqivlv&st=5hfnd28w&dl=1
+https://www.dropbox.com/scl/fi/4n407gbijtnfgn0z58d2l/Mod-5.zip?rlkey=ggmenhftzvvds9z6awopxck34&st=4xzgkd43&dl=1
+https://www.dropbox.com/scl/fi/esrc9qygzvm3yfn1c75nu/Mod-6.zip?rlkey=tdxwa5qmhbmxxj0fivcdmdt1o&st=kx95km80&dl=1
 
 //Config
 https://www.dropbox.com/scl/fi/mzyq55xtb83his7lzaco3/config.rar?rlkey=g6cazhbeas1fnqsdkrffs5989&st=1d3nxbpv&dl=0
+
+//Modpack - Else Worlds
+https://www.dropbox.com/scl/fi/ccz66na0pgjhed96dmllk/Mod-1.zip?rlkey=yprtrndp0e1je8uhjgvb0qqe6&st=wurhddjm&dl=1
+https://www.dropbox.com/scl/fi/b6ljvqp6lh4xalxzjsfqg/Mod-2.zip?rlkey=e3772sibqnzdpn5aap3r2yaxy&st=gzd5k7h3&dl=1
+https://www.dropbox.com/scl/fi/pt84yxwbmsr6zalcpg57r/Mod-3.zip?rlkey=tprfny2p8k9ghf3t98bdarw39&st=futg3buk&dl=1
+https://www.dropbox.com/scl/fi/eg2y59kfehz7onbl24auw/Mod-4.zip?rlkey=p2ys99nglttiqceye0zf70xnq&st=j7oft0of&dl=1
+https://www.dropbox.com/scl/fi/ab27iexf8gn91h4f4h8qg/Mod-5.zip?rlkey=dc4tx3nqf44ijfm8l5m9uqdj6&st=sj9k4p4c&dl=1
+https://www.dropbox.com/scl/fi/phyudc080wmaz8e9rx2g5/Mod-6.zip?rlkey=nxm5f0otlb77380mptfbilp71&st=odppbcm5&dl=1
