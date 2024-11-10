@@ -1,4 +1,4 @@
-0.0.1
+0.0.2
 //Modpack - 1.20.1
 https://www.dropbox.com/scl/fi/el9uyb7o5jx8qc4pxxdb8/Mod-1.zip?rlkey=19w3g4ax2zoz9cy06m49taz9m&st=b464myfl&dl=1
 https://www.dropbox.com/scl/fi/bvyey1c299av2ynrwtm3u/Mod-2.zip?rlkey=1fp9n3ajwfvl8q568q5b8q13j&st=6asv71lk&dl=1
